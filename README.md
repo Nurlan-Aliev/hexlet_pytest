@@ -1,0 +1,1 @@
+![[text](https://github.com/Nurlan-Aliev/hexlet_pytest/actions/runs/3530715869/jobs/5923018312/badge.svg?branch=master)](https://github.com/Nurlan-Aliev/hexlet_pytest/actions/runs/3530715869/jobs/5923018312)
