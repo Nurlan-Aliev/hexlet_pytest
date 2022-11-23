@@ -1,1 +1,1 @@
-[![text](https://github.com/Nurlan-Aliev/hexlet_pytest/actions/workflows/python-package-conda.yml/badge.svg?branch=master)](https://github.com/Nurlan-Aliev/hexlet_pytest/actions/workflows/python-package-conda.yml)
+
